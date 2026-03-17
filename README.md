@@ -27,7 +27,7 @@ When the game launches, a main menu is displayed with the following options:
 | `4` | Toggle Background Music ON / OFF |
 | `ESC` | Quit Game |
 
-![Main Menu](https://github.com/Abir-Ghosh16/City-Gun-Shooting/blob/main/README_IMAGES/Screenshot(467).png)
+![Main Menu](https://github.com/Abir-Ghosh16/City-Gun-Shooting/blob/main/README_IMAGES/Screenshot%20(467).png)
 
 ---
 
@@ -42,11 +42,11 @@ Shoot military targets moving across the city skyline. Protect the ambulance at 
 | 🚗 Army Vehicle | Shoot it | **+20** |
 | 🚑 Ambulance | Shoot it | **GAME OVER** |
 
-![Level 1](https://github.com/Abir-Ghosh16/City-Gun-Shooting/blob/main/README_IMAGES/Screenshot(470).png)
+![Level 1](https://github.com/Abir-Ghosh16/City-Gun-Shooting/blob/main/README_IMAGES/Screenshot%20(470).png)
 
 #### Game Over
 
-![Game over](https://github.com/Abir-Ghosh16/City-Gun-Shooting/blob/main/README_IMAGES/Screenshot(469).png)
+![Game over](https://github.com/Abir-Ghosh16/City-Gun-Shooting/blob/main/README_IMAGES/Screenshot%20(469).png)
 
 ### Level 2 — Urban Warfare
 Military targets mix with civilian traffic. Discrimination is key — collateral damage hurts your score.
@@ -58,7 +58,7 @@ Military targets mix with civilian traffic. Discrimination is key — collateral
 | 🚕 Taxi (Public Transport) | Shoot it | **−20** |
 | 🚑 Ambulance | Shoot it | **GAME OVER** |
 
-![Level 2](https://github.com/Abir-Ghosh16/City-Gun-Shooting/blob/main/README_IMAGES/Screenshot(472).png)
+![Level 2](https://github.com/Abir-Ghosh16/City-Gun-Shooting/blob/main/README_IMAGES/Screenshot%20(472).png)
 
 ### Level 3 — High Speed Pursuit
 Same rules as Level 2 but all targets move at **increased speed**, requiring quicker reflexes.
@@ -70,7 +70,7 @@ Same rules as Level 2 but all targets move at **increased speed**, requiring qui
 | 🚕 Taxi (Public Transport) | Shoot it | **−20** |
 | 🚑 Ambulance | Shoot it | **GAME OVER** |
 
-![Level 3](https://raw.githubusercontent.com/Abir-Ghosh16/City-Gun-Shooting/main/README_IMAGES/Screenshot(475).png)
+![Level 3](https://raw.githubusercontent.com/Abir-Ghosh16/City-Gun-Shooting/main/README_IMAGES/Screenshot%20(475).png)
 
 ---
 
