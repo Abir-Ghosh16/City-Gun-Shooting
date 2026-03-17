@@ -42,11 +42,11 @@ Shoot military targets moving across the city skyline. Protect the ambulance at 
 | 🚗 Army Vehicle | Shoot it | **+20** |
 | 🚑 Ambulance | Shoot it | **GAME OVER** |
 
-![Level 1](https://github.com/Abir-Ghosh16/City-Gun-Shooting/blob/main/README_IMAGES/Screenshot%20(470).png)
+![Level 1](https://github.com/Abir-Ghosh16/City-Gun-Shooting/blob/main/README_IMAGES/Screenshot%20(469).png)
 
 #### Game Over
 
-![Game over](https://github.com/Abir-Ghosh16/City-Gun-Shooting/blob/main/README_IMAGES/Screenshot%20(469).png)
+![Game over](https://github.com/Abir-Ghosh16/City-Gun-Shooting/blob/main/README_IMAGES/Screenshot%20(470).png)
 
 ### Level 2 — Urban Warfare
 Military targets mix with civilian traffic. Discrimination is key — collateral damage hurts your score.
