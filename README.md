@@ -27,7 +27,7 @@ When the game launches, a main menu is displayed with the following options:
 | `4` | Toggle Background Music ON / OFF |
 | `ESC` | Quit Game |
 
-![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(186).png)
+![Logo](https://github.com/Abir-Ghosh16/City-Gun-Shooting/blob/main/README_IMAGES/Screenshot (467).png)
 
 ---
 
@@ -42,7 +42,11 @@ Shoot military targets moving across the city skyline. Protect the ambulance at 
 | 🚗 Army Vehicle | Shoot it | **+20** |
 | 🚑 Ambulance | Shoot it | **GAME OVER** |
 
-![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(186).png)
+![Logo](https://github.com/Abir-Ghosh16/City-Gun-Shooting/blob/main/README_IMAGES/Screenshot (470).png)
+
+#### Game Over
+
+![Logo](https://github.com/Abir-Ghosh16/City-Gun-Shooting/blob/main/README_IMAGES/Screenshot (469).png)
 
 ### Level 2 — Urban Warfare
 Military targets mix with civilian traffic. Discrimination is key — collateral damage hurts your score.
@@ -54,7 +58,7 @@ Military targets mix with civilian traffic. Discrimination is key — collateral
 | 🚕 Taxi (Public Transport) | Shoot it | **−20** |
 | 🚑 Ambulance | Shoot it | **GAME OVER** |
 
-![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(186).png)
+![Logo](https://github.com/Abir-Ghosh16/City-Gun-Shooting/blob/main/README_IMAGES/Screenshot (472).png)
 
 ### Level 3 — High Speed Pursuit
 Same rules as Level 2 but all targets move at **increased speed**, requiring quicker reflexes.
@@ -66,8 +70,7 @@ Same rules as Level 2 but all targets move at **increased speed**, requiring qui
 | 🚕 Taxi (Public Transport) | Shoot it | **−20** |
 | 🚑 Ambulance | Shoot it | **GAME OVER** |
 
-![Logo](https://github.com/Abir-Ghosh16/Travel_Box/blob/master/README_IMAGE/Screenshot%20(186).png)
-
+![Logo](https://github.com/Abir-Ghosh16/City-Gun-Shooting/blob/main/README_IMAGES/Screenshot (475).png)
 ---
 
 ## 📊 Score System
